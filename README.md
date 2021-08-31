@@ -1,4 +1,4 @@
-# s_m_system
+# Student Management System. This is a very basic application, developed in flutter and dart. Firebase Cloud Database is used for storing the data.
 
 A new Flutter application.
 
